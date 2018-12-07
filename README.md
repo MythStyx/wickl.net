@@ -1,2 +1,0 @@
-# wickl.net
-wickl.net
